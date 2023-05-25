@@ -13,7 +13,7 @@
 </p>
 <br />
 
-## 📎 My contact list:
+## 📎 My contacts:
  <a href="https://career.habr.com/picnichek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/habr.svg" alt="KirillAstrahancev" height="30" width="40" /></a>
  <a href="https://t.me/picnichek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="KirillAstrahancev" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/kirill-astrahancev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="KirillAstrahancev" height="30" width="40" /></a>
