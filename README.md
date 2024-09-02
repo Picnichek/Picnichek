@@ -1,4 +1,4 @@
-### Hi there 👋 My name's Kirill Astrahancev and I'm a beginner Python developer 
+### Hi there 👋 My name's Kirill Astrahancev and I'm a Python developer 
 #### 🛒 Tools that I Use:
 <p align="left">
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="50" height="50" />
